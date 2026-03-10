@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Marcelo Salatino! 👋
 
-<!--
-**MarceloSalatino-crypto/MarceloSalatino-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu GitHub! Sou estudante de Engenharia de Software e um apaixonado por programação. Estou focado em construir projetos práticos para aprimorar minhas habilidades e iniciar minha carreira como desenvolvedor.
 
-Here are some ideas to get you started:
+### 💻 Sobre mim
+- 🎓 Cursando **Engenharia de Software**.
+- 🚀 Me especializando no ecossistema **Python** e **JavaScript / TypeScript**.
+- 💡 Buscando oportunidades para atuar profissionalmente na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, JavaScript, TypeScript
+- **Base Web:** HTML, CSS
+- **Ferramentas:** Git & GitHub
+
+### 📫 Como me conectar comigo
+- 💼 [Meu LinkedIn]: https://www.linkedin.com/in/marcelo-galimberti-salatino-347862359/
+- ✉️ E-mail: marcelogsalatino5@gmail.com
